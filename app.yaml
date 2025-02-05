@@ -8,7 +8,7 @@ spec:
   replicas: 4
   selector:
     matchLabels:
-      app: will42
+      app: will
   template:
     metadata:
       labels:
